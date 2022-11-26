@@ -2,7 +2,7 @@
   "name": "portfolio-app",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://modouwade.github.io/portfolio-app",
+  "homepage": "https://modouwade.github.io/PortfolioApp/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
